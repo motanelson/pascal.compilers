@@ -1,2 +1,1 @@
-# chroot.min.all.about
-all about chroot mini system
+replace source code useful if you need a function like replace like use define
